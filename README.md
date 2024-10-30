@@ -21,7 +21,7 @@ To open the GUI, simply execute `main.py`, with or without the flag `g` or `gui`
 ```bash
 $ python3 main.py
 ```
-This should open the follwoing window:
+This should open the following window:
 
 ![alt text](https://raw.githubusercontent.com/xmercerweiss/Timeclock/refs/heads/main/media/gui_preview.png "GUI Preview")
 
